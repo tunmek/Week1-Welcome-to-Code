@@ -33,5 +33,6 @@ if (nama == "") {
 } else {
     response = `tapi kayaknya kamu jadi bot aja ya, peran yang kamu pilih ga ada`
 }
+
 //code disini gunakan console.log untuk outputnya
 console.log(response)
