@@ -3,8 +3,8 @@
 // yang kemudian akan ditampilkan di console.
 
 //bikin fungsinya disini
-
 //output: "Halo Function!"
+
 function shoutOut() {
     return "Halo Function!"
 }
